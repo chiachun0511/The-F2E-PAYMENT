@@ -1,0 +1,172 @@
+body{
+    font-family: '微軟正黑體';
+    width: 100%;
+}
+
+.icon{
+    color: #6481c1;
+    font-size: 50px;
+}
+.text{
+    font-weight: bold;
+    color: #b7b7b7;
+}
+.progrss{
+    /* width: 50%; */
+    margin: 0 auto;
+}
+.content{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.step1{
+    display: inline-block;
+    text-align: center;
+
+}
+.step2{
+    display: inline-block;
+    text-align: center;
+    padding-left: 10%;
+}
+.icon_none{
+    color: #e6eaf4;
+    font-size: 50px;
+}
+.step3{
+    display: inline-block;
+    text-align: center;
+    padding-left: 10%;
+}
+.step4{
+    display: inline-block;
+    text-align: center;
+    padding-left: 10%;
+}
+.text{
+    margin-top: 10px;
+}
+/* .bar{
+    position: absolute;
+    top: 12%;    
+    left: 30%;
+    width: 10%;
+    height: 1.5%;
+    background-color: #6481c1;
+    display: 
+} */
+.chosens{
+    display: inline-block;
+    margin-top: 7%;
+    margin-left: 7%;
+}
+
+.chosen{
+    color: #5b5959;
+    font-size: 40px;;
+}
+.chosen2{
+    color: #e2e1e1;
+}
+.text_pay{
+    font-size: 16px;
+    padding-top: 16px;
+    position: absolute;
+    left: 33%;
+}
+.text_pay2{
+    left: 43.5%;
+    color: #e2e1e1;
+}
+.text_pay3{
+    left: 50.5%;
+    color: #e2e1e1;
+}
+.text_pay4{
+    left: 59.5%;
+    color: #e2e1e1;
+}
+
+.form{
+    margin-top: 10%;
+    font-size: 14px;
+}
+.name{
+    display: inline-block;
+}
+.name_input{
+    background-color: #efefef;
+    border-radius: 50px;
+    margin-top: 8px;
+    width: 70%;
+    padding: 5px;
+}
+.number{
+    display: inline-block;
+    margin-left: 10%;
+}
+.number_input{
+    background-color: #efefef;
+    border-radius: 50px;
+    margin-top: 8px;
+    width: 100%;
+    padding: 5px;
+}
+.date{
+    margin-top: 2%;
+}
+.date_input{
+    background-color: #efefef;
+    border-radius: 50px;
+    margin-top: 8px;
+    width: 15%;
+    padding: 5px;
+}
+.cvv{
+    display: inline-block;
+    margin-top: 2%;
+}
+.cvv_input{
+    background-color: #efefef;
+    border-radius: 50px;
+    margin-top: 8px;
+    width: 30%;
+    padding: 5px;
+}
+.email{
+    display: inline-block;
+    margin-left: 10%;
+}
+.email_input{
+    background-color: #efefef;
+    border-radius: 50px;
+    margin-top: 8px;
+    width: 150%;
+    padding: 5px;
+}
+.confirm{
+    margin-top: 5%;
+}
+.back{
+    display: inline-block;
+    border:  #6481c1 solid;
+    color:  #6481c1;
+    border-radius: 50px;
+    font-weight: bold;
+    margin-top: 2%;
+    padding: 10px;
+    width: 10%;
+}
+.next{
+    display: inline-block;
+    margin-left: 35%;
+    text-align: right;
+    border:  #6481c1 solid;
+    background-color:  #6481c1;
+    color: white;
+    border-radius: 50px;
+    font-weight: bold;
+    margin-top: 2%;
+    padding: 10px;
+    width: 10%;
+}
